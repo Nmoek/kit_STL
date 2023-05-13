@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+# 忽略一些配置目录
+/.idea
+/.vscode
+/bin
+/build
+
